@@ -9,10 +9,17 @@ author: Aditya Sarangi
 
 **TL;DR**, I am Aditya Sarangi from [Baripada](https://en.wikipedia.org/wiki/Baripada),India. I have a Master's degree in Sociology. I have worked in the non-profit space previously. In the current moment I was learning advance data analytics to help organizations make more precise decisions and earn a little more salary. I can speak in 4 human languages proficiently and 2 computer languages in the intermediate level. I am not a cookie cutter candidate for this job. The skills that I have acquired through my education, curiosity and work experience would make me a tight fight for the role. This role marries the best of both worlds I love, helping humans navigate technology.
 
-This is divided into different sections. Please feel free to skip around. 
+This resume summarizes how I got to where I am presently. It is divided into various sections please feel free to skip around. 
 
-**Past lives**
-Studied social science at college, particularly sociology. Increased my skills to handle open ended questions and find the most suitable answer for them. This also had critical thinking skills. It would be useful when I compare with the other companies thinking selling web analytics.
+1. Ordered list
+{:toc}
+
+## Past Life
+### Life leading to college (till 2016)
+My parents brought me a computer when I was 6 years old. I played games largely. My new world opened up when I discovered that computers could be instructed.
+
+### Undergraduate Degree (2016-19)
+I studied Sociology at [Ravenshaw University](https://ravenshawuniversity.ac.in/). It exposed me to thinking in social science and different socio-economic divisions in society. The central tenet of social science deals with open ended question and arguing for most suitable answer. 
 
 Part of the curriculum was understanding the quantitative and qualitative research. Quantitative matrices help you understand which source is driving the traffic to website. Qualitative analysis help you understand the person behind the matrices. Help me understand the medium and analyse sources to drive organic traffic to the website. 
 
