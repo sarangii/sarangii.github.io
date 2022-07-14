@@ -11,12 +11,6 @@ author: Aditya Sarangi
 
 This is divided into different sections. Please feel free to skip around. 
 
-Keeping ears close to the customer and helping them navigate the system. 
-
-Learning full stack web development. Use technologies to solve a fundamental human problem. Creativity is in combining the two things which look previously unrelated. 
-
-I can understand and comprehend the Github repos.
-
 **Past lives**
 Studied social science at college, particularly sociology. Increased my skills to handle open ended questions and find the most suitable answer for them. This also had critical thinking skills. It would be useful when I compare with the other companies thinking selling web analytics.
 
