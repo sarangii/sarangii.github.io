@@ -7,7 +7,7 @@ author: Aditya Sarangi
 ---
 
 
-TL;DR, I am not a cookie cutter candidate for this job. The skills that I have acquired previously would make me a tight fight for the role. This role marries the best of both worlds I love, helping humans navigate technology. Plausible as organization stands for ethical technology and sustainable business. The position would be a good fit from the perspective of skill-sets and world view.
+**TL;DR**, I am Aditya Sarangi from [Baripada](https://en.wikipedia.org/wiki/Baripada),India. I have a Master's degree in Sociology. I have worked in the non-profit space previously. In the current moment I was learning advance data analytics to help organizations make more precise decisions and earn a little more salary. I can speak in 4 human languages proficiently and 2 computer languages in the intermediate level. I am not a cookie cutter candidate for this job. The skills that I have acquired through my education, curiosity and work experience would make me a tight fight for the role. This role marries the best of both worlds I love, helping humans navigate technology.
 
 This is divided into different sections. Please feel free to skip around. 
 
@@ -16,9 +16,6 @@ Keeping ears close to the customer and helping them navigate the system.
 Learning full stack web development. Use technologies to solve a fundamental human problem. Creativity is in combining the two things which look previously unrelated. 
 
 I can understand and comprehend the Github repos.
-
-**Hello There** 
-I am Aditya Sarangi from India. I have a Master's degree in Sociology. I have largely work in the non-profit space previously. In the current moment I was learning advance data analytics to make more precise decisions and earn a little more salary. I can speak in 4 human languages proficiently and 2 computer languages in the intermediate level.
 
 **Past lives**
 Studied social science at college, particularly sociology. Increased my skills to handle open ended questions and find the most suitable answer for them. This also had critical thinking skills. It would be useful when I compare with the other companies thinking selling web analytics.
