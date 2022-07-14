@@ -1,3 +1,12 @@
+---
+layout: post
+title: Why I am good fit for Plausible? 
+description: All the things I have done till now culminate in the role of customer success manager at plausible
+date: 2022-07-14T06:44:11.860Z
+author: Aditya Sarangi
+---
+
+
 TL;DR, I am not a cookie cutter candidate for this job :) But whatever I have done previously is transferable to this job. Listening to the customers, facilitating communication and helping them navigate through policies. I love technology, I believe that it is humans best friend after dogs. This opportunity marries the best of both the world, technology and helping humans navigate through it. It also involves the second part which is communicating and positioning self in the market.
 
 Keeping ears close to the customer and helping them navigate the system. 
