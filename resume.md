@@ -42,6 +42,8 @@ This involved working in the grassroots levels of governance. For context, India
 ### SOS for Second COVID wave in India (March 2021- May 2021)
 The second COVID was fatal in the number of infections and deaths. I volunteered in a helpline to arrange hospital beds, and oxygen cylinders.
 
+### Skills
+
 Part of the curriculum was understanding the quantitative and qualitative research. Quantitative matrices help you understand which source is driving the traffic to website. Qualitative analysis help you understand the person behind the matrices. Help me understand the medium and analyse sources to drive organic traffic to the website. 
 
 First job was working for a NGO working in the area of child rights. Acted as a glue who conveyed the concerns of children to the legislators to make relevant. Children were the first clients who had their concerns relayed to the legislators. I was part of team which also involved in advocacy. So, I would create blog posts, social media posts and posters to relay their concerns.
