@@ -7,19 +7,40 @@ author: Aditya Sarangi
 ---
 
 
-**TL;DR**, I am Aditya Sarangi from [Baripada](https://en.wikipedia.org/wiki/Baripada),India. I have a Master's degree in Sociology. I have worked in the non-profit space previously. In the current moment I was learning advance data analytics to help organizations make more precise decisions and earn a little more salary. I can speak in 4 human languages proficiently and 2 computer languages in the intermediate level. I am not a cookie cutter candidate for this job. The skills that I have acquired through my education, curiosity and work experience would make me a tight fight for the role. This role marries the best of both worlds I love, helping humans navigate technology.
+**TL;DR**, I am Aditya Sarangi from [Baripada](https://en.wikipedia.org/wiki/Baripada),India. I have a Master's degree in Sociology. I have worked in the non-profit space previously. In the current moment I was learning advance data analytics to help organizations make more precise decisions and earn a little more salary. I can speak in 4 human languages proficiently and 2 computer languages in the intermediate level.
+
+I am not a cookie cutter candidate for this job. The skills that I have acquired through my education, curiosity and work experience would make me a tight fight for the role. This role marries the best of both worlds I love, technology and helping humans navigate technology.
 
 This resume summarizes how I got to where I am presently. It is divided into various sections please feel free to skip around. 
 
 1. Ordered list
 {:toc}
 
-## Past Life
+## Education in Past Life
 ### Life leading to college (till 2016)
 My parents brought me a computer when I was 6 years old. I played games largely. My new world opened up when I discovered that computers could be instructed.
 
 ### Undergraduate Degree (2016-19)
 I studied Sociology at [Ravenshaw University](https://ravenshawuniversity.ac.in/). It exposed me to thinking in social science and different socio-economic divisions in society. The central tenet of social science deals with open ended question and arguing for most suitable answer. 
+
+### Master's Degree (2019-21)
+I further deepened my roots in Sociology by pursuing a Master's degree in Sociology at [University of Hyderabad](https://uohyd.ac.in/). I learnt the nuts and bolts of quantitative and qualitative research. This also deepened my understanding in other social sciences.
+
+## Work in Past Life
+### Kalinga Kusum Foundation (October 2016- January 2017)
+[It](http://kalingakusum.org/index.php) was an NGO working in the area of Child rights. I was a part of the team which heard the children's issues, and initiated action from the government's end. I created blog posts, social media posts and posters for this.
+
+### Research Assistant for Member of Indian Parliament (December 2017- March 2018)
+I supported Mr.[Gaurav Gogoi](https://gauravgogoi.org/), a politician belonging to the opposition party, with research to question the government in power with regards to the various policies. 
+
+### Singrauli District Administration (April 2018- August 2018)
+This involved working in the grassroots levels of governance. For context, India is a country of 1.3 billion people. The government's welfare measures did not reach the citizens in the last mile. My job involved going close to them, understanding their concerns, and navigating the bureaucracy and technology on their behalf so that they get their welfare entitlements. This initiative impacted close to 3000 people. 
+
+### SOS for Migrant Workers during First Wave of COVID-19 (March 2020- April 2020)
+[Migrant labour crisis](https://www.washingtonpost.com/world/asia_pacific/india-coronavirus-lockdown-migrant-workers/2020/03/27/a62df166-6f7d-11ea-a156-0048b62cdb51_story.html) was an outcome of the first COVID wave. I was a volunteer in a helpine co-ordinating help for them. 
+
+### SOS for Second COVID wave in India (March 2021- May 2021)
+The second COVID was fatal in the number of infections and deaths. I volunteered in a helpline to arrange hospital beds, and oxygen cylinders.
 
 Part of the curriculum was understanding the quantitative and qualitative research. Quantitative matrices help you understand which source is driving the traffic to website. Qualitative analysis help you understand the person behind the matrices. Help me understand the medium and analyse sources to drive organic traffic to the website. 
 
