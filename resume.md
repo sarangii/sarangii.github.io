@@ -7,7 +7,9 @@ author: Aditya Sarangi
 ---
 
 
-TL;DR, I am not a cookie cutter candidate for this job :) But whatever I have done previously is transferable to this job. Listening to the customers, facilitating communication and helping them navigate through policies. I love technology, I believe that it is humans best friend after dogs. This opportunity marries the best of both the world, technology and helping humans navigate through it. It also involves the second part which is communicating and positioning self in the market.
+TL;DR, I am not a cookie cutter candidate for this job. The skills that I have acquired previously would make me a tight fight for the role. This role marries the best of both worlds I love, helping humans navigate technology. Plausible as organization stands for ethical technology and sustainable business. The position would be a good fit from the perspective of skill-sets and world view.
+
+This is divided into different sections. Please feel free to skip around. 
 
 Keeping ears close to the customer and helping them navigate the system. 
 
