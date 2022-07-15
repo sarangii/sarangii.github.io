@@ -9,7 +9,7 @@ author: Aditya Sarangi
 
 I am Aditya Sarangi from [Baripada](https://en.wikipedia.org/wiki/Baripada), India. Previously, I have worked in the non-profit space. I can speak in 4 human languages proficiently and 2 computer languages in the intermediate level.
 
-**TL;DR** Creativity generally is people using lessons from one field in another field in different ways. Skills that I have acquired through education, curiosity and work experience makes me a good fit for the role. I relate with Plausible's idea on work, growth and customer support. This role combines the two things I love, i.e , technology and helping humans navigate technology. 
+**TL;DR** Creativity generally is people using lessons from one field in another field in different ways. Skills that I have acquired through education, curiosity and work makes me a good fit for the role. I relate with Plausible's idea on work, growth and customer support. This role combines the two things I love, i.e , technology and helping humans navigate technology. 
 
 This is a summary of how I got here. 
 
@@ -46,7 +46,7 @@ I worked for the government in the grassroots levels of governance. For context,
 The [second COVID wave](https://www.nytimes.com/2021/04/20/opinion/india-covid-crisis.html) was fatal in the number of infections and deaths. I volunteered for a helpline to arrange hospital beds, and oxygen cylinders.
 
 ### Freelancing (November 2021- Present)
-Taking my time to upskill myself in technology particularly in data analytics area. Currently I am transcribing podcasts and providing research support for a living. 
+Currently I am upskilling myself in data analytics field. I am also transcribing podcasts and providing research support for a living. 
 
 ## Skills
 ### Technical Skills
@@ -65,7 +65,7 @@ Taking my time to upskill myself in technology particularly in data analytics ar
 ### Trouble Shooting
 Four out of five of my previous roles involved helping people in difficult situations navigate through complex system. The trust of customers on Plausible is important. I will ensure that customers get timely and friendly support. 
 ### Audience Engagement
-Sales and Marketing in survelliance capitalism is noisy. I believe in going slow and making things. Plausible's value of being transparent, and earning trust of potential customers resonate with me. I can write blogposts and monitor social media platforms to engage with an audience.
+Sales and Marketing in survelliance capitalism is noisy. I believe in going slow and making things. Plausible's value of being transparent, and earning trust of potential customers resonates with me. I can write blogposts and monitor social media platforms to engage with an audience.
 ### Filling in the gaps and expanding other activities
 There is not mention of [Yandex](https://metrica.yandex.com/about) [here](https://plausible.io/blog/best-wordpress-analytics-plugins). I will cover up missing parts like this one. I would reach out to the niche communities to get Plausible featured. For the short term, I would reach to podcast hosts to feature Plausible. In the medium term, I can start in house podcast to reflect on the larger values that plausible stands for.
 ### Technical Documentation
@@ -75,6 +75,6 @@ Most of my previous workplaces were resource starved. This trained me to be frug
 ### Fire-fighting 
 Things broke down in unexpected ways and times in my previous roles. When things break down, I would do whatever it takes to restore them. 
 ### Manager of one and generalist at heart
-My previous work experience has largely been in unstructured environments. This trained me to be self directed and work with minimal supervision. I have been able to retain my childlike curiosity for most things. This has let me to understand different disciplines and develop complementary skills.
+My previous work experience has largely been in unstructured environments. This has trained me to be self directed and work with minimal supervision. I have been able to retain my childlike curiosity for most things. This has let me to understand different disciplines and develop complementary skills.
 ## Endnotes
 Thank you for reading this far. I hope that I have been successful in conveying about myself, where I come from and what I bring to plausible.
