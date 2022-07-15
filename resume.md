@@ -7,18 +7,18 @@ author: Aditya Sarangi
 ---
 
 
-I am Aditya Sarangi from [Baripada](https://en.wikipedia.org/wiki/Baripada), India. I have worked in the non-profit space previously. I can speak in 4 human languages proficiently and 2 computer languages in the intermediate level.
+I am Aditya Sarangi from [Baripada](https://en.wikipedia.org/wiki/Baripada), India. Previously, I have worked in the non-profit space. I can speak in 4 human languages proficiently and 2 computer languages in the intermediate level.
 
-**TL;DR** I am not a cookie cutter candidate for this job. The skills that I have acquired through my education, curiosity and work experience would make me a tight fight for the role. This role marries the best of both worlds I love, technology and helping humans navigate technology. I strongly relate to the philosophy of Plausible in the areas of work, growth and customer support.
+**TL;DR** I am not a cookie cutter candidate for this job. The skills that I have acquired through education, curiosity and work experience would make me a tight fight for the role. I strongly relate to the philosophy of Plausible in the areas of work, growth and customer support. This role marries the best of both worlds I love, technology and helping humans navigate technology. 
 
 This is a summary of how I got here. 
 
 1. Ordered list
 {:toc}
 
-## Education in Past Life
+## Education
 ### Life leading to college (till 2016)
-My parents brought me a computer when I was 6 years old. I played games largely. A new world opened up when I discovered that computers could be instructed.
+I saw a computer for the first time when I was 6 years old. A new world opened up when I discovered programming. 
 
 ### Undergraduate Degree (2016-19)
 I studied Sociology at [Ravenshaw University](https://ravenshawuniversity.ac.in/). This built the foundation for dealing with open ended question and arguing for most suitable answer. 
@@ -26,12 +26,15 @@ I studied Sociology at [Ravenshaw University](https://ravenshawuniversity.ac.in/
 ### Master's Degree (2019-21)
 I further deepened my roots in Sociology by pursuing a Master's degree in Sociology at [University of Hyderabad](https://uohyd.ac.in/). I learnt the nuts and bolts of quantitative and qualitative research.
 
+### Continuing Education
+The web is a wonderful resource for learning about the world. I read and learn skills across disciplines. Currently, I am picking up the techniques of Data Analysis.
+
 ## Work in Past Life
 ### Kalinga Kusum Foundation (October 2016- January 2017)
-[It](http://kalingakusum.org/index.php) was an NGO working in the area of Child rights. I was a part of the team which heard the children's issues, and initiated action from the government's end. I created blog posts, social media posts and posters for this.
+[It](http://kalingakusum.org/index.php) was an NGO working in the area of Child rights. I was a part of the team which heard the children's issues, and initiated action from the government's end. I created blog posts, social media posts and posters to get the message across.
 
 ### Research Assistant for Member of Indian Parliament (December 2017- March 2018)
-I supported Mr.[Gaurav Gogoi](https://gauravgogoi.org/), a politician belonging to the opposition party, with research to question the government in power with regards to the various policies. I can find flaws with other web analytics tools.
+I supported Mr.[Gaurav Gogoi](https://gauravgogoi.org/), a politician belonging to the opposition party, with research to question the government in power accountable.
 
 ### Singrauli District Administration (April 2018- August 2018)
 [This](https://singrauli.nic.in/en/) involved working in the grassroots levels of governance. For context, India is a country of 1.3 billion people. The government's welfare measures did not reach the citizens in the last mile. My job involved going close to them, understanding their concerns, and navigating the bureaucracy and technology on their behalf so that they get their welfare entitlements. This initiative impacted close to 3000 people. 
@@ -46,12 +49,12 @@ The second COVID was fatal in the number of infections and deaths. I volunteered
 Taking my time to upskill myself in technology particularly in data analytics area. I am also transcribing podcasts for a living.
 
 ## Skills
-|Technical Skills | People Skills  |
-|-----------------|----------------|
-| GNU/Linux Bashing| Empathy |
-|Programming in Python and R|Communication - Listening, and writing |
-|Data Scraping | Writing in technical and Non technical terms |
-|Office Suite| Building relations |Community Management |
+| Technical Skills  | People Skills      | 
+|------------|-----------|
+|GNU/Linux Bashing |Communication - Listening, and writing|
+|Programming in Python and R |Empathy|
+|FOSS Native |Writing to explain|
+|Office Suite| Building relations, and Community Management |
 |Google Fu- without Google|
 
 ## What I can bring to Plausible?
@@ -70,9 +73,5 @@ Things broke down in unexpected times in my previous roles. When things break do
 ### Manager of one and generalist at heart
 My previous work experience has largely been in unstructured environments. In that sense, I am self directed at work and can work without minimal supervision. Being curious is related to being generalist at heart. This has let me to understand different disciplines and develop complementary skills.
 ## Endnotes
-Thank you for reading till here. I hope that I have been successful in conveying about myself, where I come from and what I bring to plausible.
-
-| Technical Skills  | People Skills      | 
-|------------|-----------|
-|GNU/Linux Bashing |Communication - Listening, and writing|
-|Programming in Python and R |Empathy|
+I think that creativity generally is people using lessons from one field in another field in different ways. 
+I hope that I have been successful in conveying about myself, where I come from and what I bring to plausible. Thank you for reading this far.
