@@ -49,17 +49,20 @@ The second COVID was fatal in the number of infections and deaths. I volunteered
 Taking my time to upskill myself in technology particularly in data analytics area. I am also transcribing podcasts for a living.
 
 ## Skills
-|  Technical Skills  | Non- Technical Skills      | 
-|------------|-----------|
-| GNU/Linux Bashing |  Empathy |
-| Programming with Python & R |Clear Communication |
-| Familiarity with FOSS | Explaining complex technical topics |
-| Office Suite | Community Management |
-| Google-Fu without google | |
-
+### Technical Skills
+> GNU/ Linux Bashing and programming with R and Python
+> Understanding of how web works
+> Data Analytics
+> Office Suite
+> Familiarity with FOSS
+> Google- Fu
+### Non Technical Skills
+> Empathy
+> Communication- Listening, speaking and writing
+> Community building and management
 ## What I can bring to Plausible?
 ### Trouble Shooting
-All of my previous roles involved helping people in difficult situations navigate through complex system. The trust that customers put on plausible is important. I will ensure that people get timely and friendly support. 
+All of my previous roles involved helping people in difficult situations navigate through complex system. The trust that customers put on plausible is important. I will ensure that customers get timely and friendly support. 
 ### Audience Engagement
 Sales and Marketing in survelliance capitalism is noisy. I resonate with plausible's value of being transparent, and earning trust of potential customers. I can write blogposts, and find forums to engage with the community who would be the prospective customer of plausible. I believe in going slow and making things.
 ### Being Resourceful and Frugal
