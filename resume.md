@@ -50,16 +50,16 @@ Taking my time to upskill myself in technology particularly in data analytics ar
 
 ## Skills
 ### Technical Skills
-> GNU/ Linux Bashing and programming with R and Python
-> Understanding of how web works
-> Data Analytics
-> Office Suite
-> Familiarity with FOSS
-> Google- Fu
+-  GNU/ Linux Bashing and programming with R and Python
+-  Understanding of how web works
+-  Office Suite
+-  Data Analytics
+-  Familiarity with FOSS
+-  Google- Fu
 ### Non Technical Skills
-> Empathy
-> Communication- Listening, speaking and writing
-> Community building and management
+-  Empathy
+-  Communication- Listening, speaking and writing
+-  Community building and management
 ## What I can bring to Plausible?
 ### Trouble Shooting
 All of my previous roles involved helping people in difficult situations navigate through complex system. The trust that customers put on plausible is important. I will ensure that customers get timely and friendly support. 
