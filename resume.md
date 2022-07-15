@@ -61,7 +61,7 @@ Currently, I am upskilling myself in data analytics field. I am also transcribin
 -  Communication- Listening, speaking and writing
 -  Community building and management
 -  Research
-## What I can bring to Plausible?
+## What will I bring to Plausible?
 ### Trouble Shooting
 Four out of five of my previous roles involved helping people in difficult situations navigate through complex system. The trust of customers on Plausible is important. I will ensure that customers get timely and friendly support. 
 ### Audience Engagement
