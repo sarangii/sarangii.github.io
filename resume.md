@@ -27,14 +27,14 @@ I studied Sociology at [Ravenshaw University](https://ravenshawuniversity.ac.in/
 I further deepened my roots in Sociology by pursuing a Master's degree in Sociology at [University of Hyderabad](https://uohyd.ac.in/). I learnt the nuts and bolts of quantitative and qualitative research.
 
 ### Continuing Education
-The web is a good and confusing resource to make sense of the world. I read and learn skills across disciplines. Currently, I am learning the techniques of Data Analysis.
+The web is a good and confusing resource to make sense of the world. Currently, I am learning the techniques of Data Analysis.
 
 ## Previous Work
 ### Kalinga Kusum Foundation (October 2016- January 2017)
-[This](http://kalingakusum.org/index.php) was an NGO working in the area of Child rights. I was a part of the team which heard the children's issues, and advocated for action from the government's end. I created blog posts, social media posts and posters to get the message across to the audience.
+[This](http://kalingakusum.org/index.php) was an NGO working in the area of Child rights. I was a part of the team which heard the children's issues, and advocated action on the government's end. I created blog posts, social media posts and posters to get the message across to the audience.
 
 ### Research Assistant for Member of Indian Parliament (December 2017- March 2018)
-I supported Mr.[Gaurav Gogoi](https://gauravgogoi.org/), a politician belonging to the opposition party, with research to hold the government in power accountable for its policies.
+I provided research support to Mr.[Gaurav Gogoi](https://gauravgogoi.org/), a politician belonging to the opposition party, to hold the government in power accountable for its policies.
 
 ### Singrauli District Administration (April 2018- August 2018)
 I worked for the government in the grassroots levels of governance. For context, India is a country of 1.3 billion people. The government's welfare measures did not reach the citizens in the last mile. My job involved going close to these citizens, understanding their concerns, and navigating the bureaucracy and technology on their behalf so that they get their welfare entitlements. This initiative impacted close to 3000 people. 
@@ -46,7 +46,7 @@ I worked for the government in the grassroots levels of governance. For context,
 The [second COVID wave](https://www.nytimes.com/2021/04/20/opinion/india-covid-crisis.html) was fatal in the number of infections and deaths. I volunteered for a helpline to arrange hospital beds, and oxygen cylinders.
 
 ### Freelancing (November 2021- Present)
-Taking my time to upskill myself in technology particularly in data analytics area. I am also transcribing podcasts for a living.
+Taking my time to upskill myself in technology particularly in data analytics area. Currently I am transcribing podcasts and providing research support for a living. 
 
 ## Skills
 ### Technical Skills
@@ -69,12 +69,12 @@ Sales and Marketing in survelliance capitalism is noisy. I believe in going slow
 ### Filling in the gaps and expanding other activities
 There is not mention of [Yandex](https://metrica.yandex.com/about) [here](https://plausible.io/blog/best-wordpress-analytics-plugins). I will cover up missing parts like this one. I would reach out to the niche communities to get Plausible featured. For the short term, I would reach to podcast hosts to feature Plausible. In the medium term, I can start in house podcast to reflect on the larger values that plausible stands for.
 ### Technical Documentation
-I have been using FOSS since 2016. This has given me the liberty to tinker and made me more aware of technical things. I can convey complex technical things in a lucid manner in writing. 
+I have been using FOSS since 2016. This has given me the liberty to tinker, and made me more aware of technical things. I can convey complex technical things in a lucid manner in writing. I can write the technical documentation.
 ### Being Resourceful and Frugal
-Most of my previous workplaces were resource starved. This trained me to be frugal and creative. I learnt to figure problems in my own and find out more creative ways to reach the goals. I would bring the same attributes to Plausible. 
+Most of my previous workplaces were resource starved. This trained me to be frugal and creative. I learnt to figure problems in my own and find creative ways to reach the goals. I would bring these attributes to Plausible. 
 ### Fire-fighting 
 Things broke down in unexpected ways and times in my previous roles. When things break down, I would do whatever it takes to restore them. 
 ### Manager of one and generalist at heart
-My previous work experience has largely been in unstructured environments. I was self directed at work and worked without minimal supervision. I have been able to retain my childlike curiosity for most things. This has let me to understand different disciplines and develop complementary skills.
+My previous work experience has largely been in unstructured environments. This trained me to be self directed and work with minimal supervision. I have been able to retain my childlike curiosity for most things. This has let me to understand different disciplines and develop complementary skills.
 ## Endnotes
 Thank you for reading this far. I hope that I have been successful in conveying about myself, where I come from and what I bring to plausible.
