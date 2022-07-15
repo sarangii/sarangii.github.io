@@ -49,13 +49,13 @@ The second COVID was fatal in the number of infections and deaths. I volunteered
 Taking my time to upskill myself in technology particularly in data analytics area. I am also transcribing podcasts for a living.
 
 ## Skills
-| Technical Skills  | People Skills      | 
-|-------------------|--------------------|
-|GNU/Linux Bashing |Communication - Listening, and writing|
-|Programming in Python and R |Empathy|
-|FOSS Native |Writing to explain|
-|Office Suite| Building relations, and Community Management |
-|Google Fu- without Google|
+|  Technical Skills  | Non- Technical Skills      | 
+|------------|-----------|
+| GNU/Linux Bashing |  Empathy |
+| Programming with Python & R |Clear Communication |
+| Familiarity with FOSS | Explaining complex technical topics |
+| Office Suite | Community Management |
+| Google-Fu without google | |
 
 ## What I can bring to Plausible?
 ### Trouble Shooting
