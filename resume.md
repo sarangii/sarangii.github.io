@@ -60,6 +60,7 @@ Taking my time to upskill myself in technology particularly in data analytics ar
 -  Empathy
 -  Communication- Listening, speaking and writing
 -  Community building and management
+-  Research
 ## What I can bring to Plausible?
 ### Trouble Shooting
 All of my previous roles involved helping people in difficult situations navigate through complex system. The trust that customers put on plausible is important. I will ensure that customers get timely and friendly support. 
