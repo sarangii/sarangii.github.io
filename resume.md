@@ -46,7 +46,7 @@ I worked for the government in the grassroots levels of governance. For context,
 The [second COVID wave](https://www.nytimes.com/2021/04/20/opinion/india-covid-crisis.html) was fatal in the number of infections and deaths. I volunteered for a helpline to arrange hospital beds, and oxygen cylinders.
 
 ### Freelancing (November 2021- Present)
-Currently I am upskilling myself in data analytics field. I am also transcribing podcasts and providing research support for a living. 
+Currently, I am upskilling myself in data analytics field. I am also transcribing podcasts and providing research support for a living. 
 
 ## Skills
 ### Technical Skills
@@ -67,11 +67,11 @@ Four out of five of my previous roles involved helping people in difficult situa
 ### Audience Engagement
 Sales and Marketing in survelliance capitalism is noisy. I believe in going slow and making things. Plausible's value of being transparent, and earning trust of potential customers resonates with me. I can write blogposts and monitor social media platforms to engage with an audience.
 ### Filling in the gaps and expanding other activities
-There is not mention of [Yandex](https://metrica.yandex.com/about) [here](https://plausible.io/blog/best-wordpress-analytics-plugins). I will cover up missing parts like this one. I would reach out to the niche communities to get Plausible featured. For the short term, I would reach to podcast hosts to feature Plausible. In the medium term, I can start in house podcast to reflect on the larger values that plausible stands for.
+There is not mention of [Yandex](https://metrica.yandex.com/about) [here](https://plausible.io/blog/best-wordpress-analytics-plugins). I will cover up missing parts like this one. I would reach out to the niche communities to get Plausible featured. For the short term, I would reach to podcast hosts to feature Plausible. In the medium term, I can start in-house podcast to reflect on the larger values that plausible stands for.
 ### Technical Documentation
 I have been using FOSS since 2016. This has given me the liberty to tinker, and made me more aware of technical things. I can convey complex technical things in a lucid manner in writing. I can write the technical documentation.
 ### Being Resourceful and Frugal
-Most of my previous workplaces were resource starved. This trained me to be frugal and creative. I learnt to figure problems in my own and find creative ways to reach the goals. I would bring these attributes to Plausible. 
+Most of my previous workplaces were resource starved. This trained me to be frugal and creative. I learnt to figure problems in my own and find creative ways to reach the solutions. I would bring these attributes to Plausible. 
 ### Fire-fighting 
 Things broke down in unexpected ways and times in my previous roles. When things break down, I would do whatever it takes to restore them. 
 ### Manager of one and generalist at heart
