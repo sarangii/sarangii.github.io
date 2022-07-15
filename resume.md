@@ -71,3 +71,19 @@ Things broke down in unexpected times in my previous roles. When things break do
 My previous work experience has largely been in unstructured environments. In that sense, I am self directed at work and can work without minimal supervision. Being curious is related to being generalist at heart. This has let me to understand different disciplines and develop complementary skills.
 ## Endnotes
 Thank you for reading till here. I hope that I have been successful in conveying about myself, where I come from and what I bring to plausible.
+
+|  Serial  | Name      | Email         | Brief Description      |
+|------------|-----------|-----------|---------------------|
+| 1.|Patrick Heller|[patrick_heller@brown.edu](mailto:patrick_heller@brown.edu)|sociologist with extensive research experience in India. Web:https://www.patrickheller.com/ |
+|2.| [Jonas Radl](https://www.jonasradl.eu/)|jradl {at} clio.uc3m.es|Sociologist in Europe. His study involves working with large data – sets.|
+|3.|60 Decibels|https://60decibels.com/|It has opportunities in M&E|
+|4.|Euromonitor|https://apply.workable.com/euromonitor/?lng=en|Has a position of business Analyst here|
+|5.|Aishwariya Kekre|aishwaryakekre@gmail.com|She is pursuing her PhD in the University of Virginia. She is also lead at IFMR at Krea.|
+|6.|Prerna Kundu|prerna96.kundu@gmail.com|PhD at UBC. Has worked at JPAL. Founder of Women in Econ and policy|
+|7.||||
+|8.||||
+|9.||||
+|10.||||
+|11.||||
+|12.||||
+|13.||||
