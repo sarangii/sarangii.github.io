@@ -29,7 +29,7 @@ I further deepened my roots in Sociology by pursuing a Master's degree in Sociol
 ### Continuing Education
 The web is a wonderful resource for learning about the world. I read and learn skills across disciplines. Currently, I am picking up the techniques of Data Analysis.
 
-## Work in Past Life
+## Previous Work
 ### Kalinga Kusum Foundation (October 2016- January 2017)
 [It](http://kalingakusum.org/index.php) was an NGO working in the area of Child rights. I was a part of the team which heard the children's issues, and initiated action from the government's end. I created blog posts, social media posts and posters to get the message across.
 
@@ -50,7 +50,7 @@ Taking my time to upskill myself in technology particularly in data analytics ar
 
 ## Skills
 | Technical Skills  | People Skills      | 
-|------------|-----------|
+|-------------------|--------------------|
 |GNU/Linux Bashing |Communication - Listening, and writing|
 |Programming in Python and R |Empathy|
 |FOSS Native |Writing to explain|
