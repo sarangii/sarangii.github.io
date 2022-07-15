@@ -7,9 +7,9 @@ author: Aditya Sarangi
 ---
 
 
-**TL;DR**, I am Aditya Sarangi from [Baripada](https://en.wikipedia.org/wiki/Baripada), India. I have worked in the non-profit space previously. I can speak in 4 human languages proficiently and 2 computer languages in the intermediate level.
+I am Aditya Sarangi from [Baripada](https://en.wikipedia.org/wiki/Baripada), India. I have worked in the non-profit space previously. I can speak in 4 human languages proficiently and 2 computer languages in the intermediate level.
 
-I am not a cookie cutter candidate for this job. The skills that I have acquired through my education, curiosity and work experience would make me a tight fight for the role. This role marries the best of both worlds I love, technology and helping humans navigate technology.
+**TL;DR** I am not a cookie cutter candidate for this job. The skills that I have acquired through my education, curiosity and work experience would make me a tight fight for the role. This role marries the best of both worlds I love, technology and helping humans navigate technology.
 
 This resume summarizes how I got to where I am presently. It is divided into various sections please feel free to skip around. 
 
@@ -45,7 +45,7 @@ The second COVID was fatal in the number of infections and deaths. I volunteered
 ### Freelancing (November 2021- Present)
 Taking my time to upskill myself in technology particularly in data analytics area. I am also transcribing podcasts for a living.
 
-### Skills
+## Skills
 |Technical Skills | People Skills  |
 |-----------------|----------------|
 | GNU/Linux Bashing| Empathy |
@@ -54,14 +54,18 @@ Taking my time to upskill myself in technology particularly in data analytics ar
 |Office Suite| Building relations |Community Management |
 |Google Fu- without Google|
 
-### What I can bring to Plausible?
-## Trouble- shooting problems
-All of my previous roles involved helping people navigate through complex system and earn their trust. I can ensure that people get timely and friendly support. 
-## Audience Engagement
-Sales and Marketing is noisy. But I resonate with plausible's value of being transparent, and getting trust of potential customers. I can write blogposts, and find forums to engage with the community that believes in plausible. I believe in go slow and making things.
-## Filling in the gaps and expanding other activities
+## What I can bring to Plausible?
+### Trouble- shooting problems
+All of my previous roles involved helping people in difficult situations navigate through complex system. The trust that customers put on plausible is important. I can ensure that people get timely and friendly support. 
+### Audience Engagement
+Sales and Marketing in survelliance capitalism is noisy. I resonate with plausible's value of being transparent, and earning trust of potential customers. I can write blogposts, and find forums to engage with the community who would be the prospective customer of plausible. I believe in going slow and making things.
+### Filling in the gaps and expanding other activities
 There is not mention of [Yandex](https://metrica.yandex.com/about) [here](https://plausible.io/blog/best-wordpress-analytics-plugins). I can write cover the missing component of this. I would reach out to the niche communities to get Plausible featured. For the short term, I would reach to podcast hosts to feature plausible. In the medium term, I can start in house podcast to reflect on the larger values that plausible stands for.
-## Technical Documentation
-I have been using FOSS since 2016 and like technology. I can convey complex technical things in a lucid manner.
-## Fire-fighting 
-Things broke down in unexpected times in my previous roles. When things break down I would do the needful to restore them. 
+### Technical Documentation
+I have been using FOSS since 2016 and I like technology. I can convey complex technical things in a lucid manner.
+### Fire-fighting 
+Things broke down in unexpected times in my previous roles. When things break down, I would do whatever it takes to restore them. 
+### Manager of one and generalist at heart
+My previous work experience has largely been in unstructured environments. In that sense, I am self directed at work and can work without minimal supervision. Being curious is related to being generalist at heart. This has let me to understand different disciplines and develop complementary skills.
+## Endnotes
+Thank you for reading till here. I hope that I have been successful in conveying about myself and where I come from. I strongly relate to the philosophy of Plausible in the areas of work, growth and customer support. I would love to work here.
