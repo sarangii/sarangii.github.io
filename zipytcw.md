@@ -62,19 +62,19 @@ Currently, I am upskilling myself in data analytics field. I am also transcribin
 -  Community building and management
 -  Research
 ## What will I bring to Zippy?
-### Trouble Shooting
-Four out of five of my previous roles involved helping people in difficult situations navigate through complex system. The trust of customers on Plausible is important. I will ensure that customers get timely and friendly support. 
+### Research
+I am a millenial resident of the internet. My education in social science has taught me to research well.
 ### Audience Engagement
-Sales and Marketing in survelliance capitalism is noisy. I believe in going slow and making things. Plausible's value of being transparent, and earning trust of potential customers resonates with me. I can write blogposts and monitor social media platforms to engage with an audience.
-### Filling in the gaps and expanding other activities
-There is not mention of [Yandex](https://metrica.yandex.com/about) [here](https://plausible.io/blog/best-wordpress-analytics-plugins). I will cover up missing parts like this one. I would reach out to the niche communities to get Plausible featured. For the short term, I would reach to podcast hosts to feature Plausible. In the medium term, I can start in-house podcast to reflect on the larger values that plausible stands for.
+I understand A/B testing. I am a serial cold-emailer. I can make content in the social media to reach the end of the funnel. I am data driven in my approach.
+### Engagement through writing
+I can write to engage the audience. Here are two of my writing samples, [movie review](https://docs.google.com/document/d/1aCOB8TBMXfz4WkUoh38BmoPw5BT_dOqr/edit?usp=sharing&ouid=114637352788216674201&rtpof=true&sd=true), and [SOP](https://docs.google.com/document/d/12AJl8gd7WJDEAqtG1ml41HFMMk2GChXAp5obkjmxG-0/edit?usp=sharing) that convey my writing ability.
 ### Technical Documentation
 I have been using FOSS since 2016. This has given me the liberty to tinker, and made me more aware of technical things. I can convey complex technical things in a lucid manner in writing. I can write the technical documentation.
 ### Being Resourceful and Frugal
-Most of my previous workplaces were resource starved. This trained me to be frugal and creative. I learnt to figure problems in my own and find creative ways to reach the solutions. I would bring these attributes to Plausible. 
+Most of my previous workplaces were resource starved. This trained me to be frugal and creative. I learnt to figure problems in my own and find creative ways to reach the solutions. I would bring these attributes to Zipp
 ### Fire-fighting 
 Things broke down in unexpected ways and times in my previous roles. When things break down, I would do whatever it takes to restore them. 
 ### Manager of one and generalist at heart
-My previous work experience has largely been in unstructured environments. This has trained me to be self directed and work with minimal supervision. I have been able to retain my childlike curiosity for most things. This has let me to understand different disciplines and develop complementary skills.
+My previous work experience has largely been with teams in unstructured environments. This has trained me to be self directed and work with minimal supervision. I have been able to retain my childlike curiosity for most things. This has let me to understand different disciplines and develop complementary skills.
 ## Endnotes
-Thank you for reading this far. I hope that I have been successful in conveying about myself, where I come from and what I bring to plausible.
+Thank you for reading this far.  I would have also given an example of technical writing if had not come across this opportunity half an hour before the deadline. I hope that I have been successful in conveying about myself, where I come from and what I bring to Zippy.
