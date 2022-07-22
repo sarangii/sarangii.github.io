@@ -9,7 +9,7 @@ author: Aditya Sarangi
 
 I am Aditya Sarangi from [Baripada](https://en.wikipedia.org/wiki/Baripada), Odisha. Previously, I have worked in the non-profit space. I can speak in 4 human languages proficiently and 2 computer languages in the intermediate level. Outside work i read widely, cook and listen to Indian classical Music.
 
-**TL;DR** Creativity generally is people using lessons from one field in another field in different ways. Skills that I have acquired through education, curiosity and work makes me a good fit for the role. I combine the best of both worlds, i.e, understanding of human behaviour and computers. I understand 'tech-bros' and feminism a deeper level. This role combines the two things I like, i.e , technology and communicating it to people. 
+**TL;DR** Creativity generally is people using lessons from one field in another field in different ways. Skills that I have acquired through education, curiosity and work makes me a good fit for the role. I combine the best of both worlds, i.e, understanding of human behaviour and computers. I understand 'tech-bros' and feminism at a deeper level. This role combines the two things I like, i.e , technology and communicating it to people. 
 
 This is a summary of how I got here. 
 
@@ -63,7 +63,7 @@ Currently, I am upskilling myself in data analytics field. I am also transcribin
 -  Research
 ## What will I bring to Zippy?
 ### Research
-I am a millenial resident of the internet. My education in social science has taught me to research well.
+I am a millenial resident of the internet. My education in social science has taught me to research well and convey it meaningfully.
 ### Audience Engagement
 I understand A/B testing. I am a serial cold-emailer. I can make content in the social media to reach the end of the funnel. I am data driven in my approach.
 ### Engagement through writing
