@@ -29,3 +29,15 @@ They say that consistency is the key. No matter whatever ones does, one has to b
 10.  Freebies Vs. Actual Welfare
 11.  Prevention of Money Laundering Act
 12.  Fiscal federalism in India.
+
+The good thing about Github is that it's remainder feature. It has been 11 days since I last updated the CA. Now let's go back to the CA portion.
+1. Small Satellite Launch Vehicle and lower earth orbit.
+2. UN's FAO's Food Price Index, Food Inflation and South-West Monsoon.
+3. Low tax to GDP ratio, lower investment, higher fiscal deficit and low GDP growth
+4. Idukki Reservoir and all things related to federalism and water sharing agreement. 
+5. Ramrawas Kalan model in Rajasthan. Nadis as a hedge against water shortages.
+6. Rock agama- insights into urban biodiversity.
+7. Kondapalli toys in Andhra Pradesh.
+8. Minor minerals, the laws - EPA and steps to reduce the plunder of those minerals.
+9. Sarpanch Patis- Husbands of women Sarpanch take oath in MP Panchayats.
+10. 
