@@ -22,3 +22,6 @@ matter to me.
 1. http://highscalability.com/blog/2013/7/8/the-architecture-twitter-uses-to-deal-with-150m-active-users.html - As twitter user it is good insight into how twitter makes everything appear seamless despite all the complexities surrounding it.
 2. https://medium.com/thoughtlytics/breaking-down-notions-organic-growth-strategies-3e12213a27f5 - Making organic growth happen.
 3. https://programmingdigest.net/ - Everything programming.
+
+**Random Chikibum**
+https://sahilk.in/- Product design, philosophy of life and food in Bangalore and Pune. 
