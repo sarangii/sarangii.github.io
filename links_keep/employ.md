@@ -17,3 +17,6 @@
 - https://twitter.com/CFI_Accion - Do
 - https://www.cdfi.in/about - Same
 - https://pyecon.org/down/pyecon.pdf- Econometrics for python
+- https://warwick.ac.uk/fac/soc/economics/staff/jli/ra/- Warwick Econ thing
+- https://hbr.org/2021/05/is-a-nonprofit-job-right-for-you- V Sriram Talking about Non-profit job
+- https://aeturrell.github.io/coding-for-economists/code-preliminaries.html - Coding for Econ
