@@ -26,3 +26,17 @@ matter to me.
 **Random Chikibum**
 https://sahilk.in/- Product design, philosophy of life and food in Bangalore and Pune. 
 https://www.mlinda.org/about-us/our-team/ - Approach them for jobs
+
+**Resources on learning**
+1. idinsight.org/article/five-practical-tips-for-a-successful-government-partnership/ - Tips on successful government partnerships.
+2. https://stats60.github.io/- Intro to statistical Methods
+3. http://www.cs.toronto.edu/~guerzhoy/ - Prof's open source stuff for computer and data science
+4. https://www.linkedin.com/in/smita-ram-7095358/ - Tech for good. Reach out to her if needed.
+5. knowledgelab.org - UC Chicago+ Sociology + Data Science
+6. https://docs.anaconda.com/anaconda/user-guide/tasks/switch-environment/ - Anaconda Documentation
+7. https://vaishnavmilan.files.wordpress.com/2022/07/criminalization-submission-final.pdf - Milan Vaishnav article on his area of his specialization.
+8. https://dataforgood.facebook.com/dfg/tools - Data for Good FB
+9. https://sites.google.com/site/ritamchaurey/ - Studies labour law and informality in India
+10. https://tanukumar.com/ - Political Science, Quantitative Methods
+11. https://opportunityinsights.org/wp-content/uploads/2022/07/socialcapital_nontech.pdf - Raj Chetty's stuff
+12. https://cs186.gitbook.io/project/assignments/proj1/your-tasks - SQL for data Science
