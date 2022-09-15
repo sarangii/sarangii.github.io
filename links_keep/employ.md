@@ -25,4 +25,4 @@
 - https://www.feyaadallie.com/research - Stanford guy researching the Hindu Muslim relations in India
 - https://yiqingxu.org/teaching/ - Crossed the hurdle of PhD really fast. Politics + Data Science
 - https://www.abhijeetsingh.dev/research - Nudge him in your direction
-- 
+- https://www.ecoinnovision.com/ - They call themselves Digital Pani and help the waste-water management plants to be more efficient in their operations. 
