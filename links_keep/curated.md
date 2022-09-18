@@ -40,3 +40,5 @@ https://www.mlinda.org/about-us/our-team/ - Approach them for jobs
 10. https://tanukumar.com/ - Political Science, Quantitative Methods
 11. https://opportunityinsights.org/wp-content/uploads/2022/07/socialcapital_nontech.pdf - Raj Chetty's stuff
 12. https://cs186.gitbook.io/project/assignments/proj1/your-tasks - SQL for data Science
+13. https://statisticsbyjim.com/regression/interpret-coefficients-p-values-regression/ - p-values and z test in statistics
+14. 
