@@ -41,4 +41,14 @@ https://www.mlinda.org/about-us/our-team/ - Approach them for jobs
 11. https://opportunityinsights.org/wp-content/uploads/2022/07/socialcapital_nontech.pdf - Raj Chetty's stuff
 12. https://cs186.gitbook.io/project/assignments/proj1/your-tasks - SQL for data Science
 13. https://statisticsbyjim.com/regression/interpret-coefficients-p-values-regression/ - p-values and z test in statistics
-14. 
+14. https://policyinsights.in/ - Dalberg ka policy insights
+15. https://docs.anaconda.com/
+16. https://theeffectbook.net/
+
+**People to be nudged**
+1. https://www.dirkwitteveen.com/ - Sociologist using quantitative methods to understand economic inequality and education
+2. https://www.katyaivanova.eu/home - Studying the structure of family using quantitative methods
+3. https://twitter.com/ErinnDuprey/status/1582049132625416192 - Guide to learning R
+4. https://www.uni-heidelberg.de/md/sai/wiw/team/klonner/cv.pdf - Economist @ Hidelberg studying and understanding India
+5. http://www.jenniferbussell.com/about.html - political science + UC Berkley + India
+6. 
